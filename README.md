@@ -26,7 +26,7 @@ The app includes:
 - Visualization panels (Plotly) for market and risk analytics  
 - Source document exploration with document metadata
 
-![FinanceGPT UI Screenshot](assets/financegpt_ui_preview.png)
+![FinanceGPT Repository Screenshot](financegpt_interface.png)
 
 ---
 
@@ -86,7 +86,7 @@ financegpt/
 ## 🎥 Demo
 The FinanceGPT interface provides an interactive experience for financial analysis. Below is a screenshot of the app in action:
 
-![FinanceGPT Interface](financegpt_interface.png)
+![FinanceGPT Interface](assets/financegpt_interface.png)
 
 **Example Interaction:**
 - **Query:** "How has Microsoft's cloud business been performing?"
